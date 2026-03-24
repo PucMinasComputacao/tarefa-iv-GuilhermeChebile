@@ -400,19 +400,31 @@ a{
     border-left: 10px double rgb(7, 7, 110); 
     line-height: 1.2;
     font-family: arial;
-    margin-left: -20px;
+    margin-left: -5px;
     border-radius: 10px;
     border:  10px double rgb(7, 7, 110); 
+    text-align: center;
 }
 #titulforms{
     text-align: center;
     font-family: arial;
     color:  rgb(7, 7, 110);
 }
+#brow{
+    display: flex;
+    justify-content: center;
+}
 #forms{
-
-    text-align: center;
+    text-align: left;
 }
 .label1{
     font-family: Arial;
+}
+.finalbot{
+    background-color: #f5f7fa;
+    color:rgb(7, 7, 110);
+    cursor: pointer;
+    font-size: 18px; font-weight: bold;
+    border-radius: 10px;
+    border: 5px double rgb(7, 7, 110);
 }
