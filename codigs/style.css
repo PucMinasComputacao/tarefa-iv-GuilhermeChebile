@@ -1,0 +1,397 @@
+#conteudo{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 1000px;
+}
+#conteudo img{
+    width: 175px;
+    height: 175px;
+    border-radius:1000px
+}
+#texto{
+    font-family: Arial; 
+}
+#cabec{
+    background-color:rgb(7, 7, 110);
+    padding: 15px 30px;
+    text-align: center;
+    height: 65px;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+}
+#cabec nav{
+    display: flex;
+    justify-content: center;
+    gap: 80px;
+    font-size: 30px;
+    
+}
+#logocab{
+    width: fit-content;
+}
+#logocab>img{
+    width: 80px;
+    position: absolute;
+    left: 1%;
+    bottom: 10%;
+}
+#botaocont{
+    background-color: #f5f7fa;
+    color:rgb(7, 7, 110);
+    cursor: pointer;
+    font-size: 15px; font-weight: bold;
+    border-radius: 30px;
+    border: 5px double rgb(7, 7, 110);
+    position: absolute;
+    bottom: 30px;
+    left: 92%;
+}
+#botaosobre{
+    background-color: #f5f7fa;
+    color:rgb(7, 7, 110);
+    cursor: pointer;
+    font-size: 15px; font-weight: bold;
+    border-radius: 30px;
+    border: 5px double rgb(7, 7, 110);
+    position: absolute;
+    bottom: 30px;
+    left: 87%;
+}
+#botaoduvid{
+    background-color: #f5f7fa;
+    color:rgb(7, 7, 110);
+    cursor: pointer;
+    font-size: 15px; font-weight: bold;
+    border-radius: 30px;
+    border: 5px double rgb(7, 7, 110);
+    position: absolute;
+    bottom: 30px;
+    left: 81%;
+}
+#uni{
+    position: absolute;
+    bottom: -20px;
+    left: 25%;
+    color: white;
+}
+#pesquisa{
+    position: absolute;
+    bottom: 32px;
+    left: 7%;    
+}
+#pesquisa>input{
+    height: 30px;
+    width: 250px;
+}
+#conteudo2{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 1000px;
+}
+#conteudo2 img{
+    width: 175px;
+    height: 175px;
+    border-radius:50px
+}
+#textogmn{
+    font-family: Arial;
+}
+#conteudo3{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 1000px;
+}
+#conteudo3 img{
+    width: 175px;
+    height: 175px;
+    border-radius:200px
+}
+#textometa{
+    font-family: Arial;
+}
+#title{
+    text-align: center;
+    font-size: 100px;
+}
+#parag{
+    font-size: 40px;
+    color: rgb(7, 7, 110);
+}
+body{
+    background-color: rgb(244, 238, 238);
+
+}
+#conteudo4{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 1000px;
+}
+#conteudo4 img{
+    width: 175px;
+    height: 175px;
+    border-radius:80px
+}
+#textoads{
+    font-family: Arial;
+}
+#conteudo5{
+    display: flex;
+    align-items: center;
+    gap: 20px;
+    padding: 20px;
+    border: 2px solid #ccc;
+    border-radius: 1000px;
+}
+#conteudo5 img{
+    width: 175px;
+    height: 175px;
+    border-radius:80px
+}
+#textolink{
+    font-family: Arial;
+}
+#titulolink{
+    text-decoration: underline;
+    color: rgb(7, 7, 110);
+}
+#paralink{
+    color: black;
+    font-size: 18px;
+}
+a{
+    text-decoration:none;
+}
+#inicio{
+    display: flex;
+    align-items: stretch;
+    border-left: 10px solid  rgb(7, 7, 110);
+    background-color: #f5f7fa;
+    font-family: arial;
+    font-size: 20px;
+}
+.textinicio{
+    margin-left: 2px;
+    font-size: 25px;
+    padding: 1px 1px;
+    background-color: #f5f7fa;
+    border-left: 10px double  rgb(7, 7, 110); 
+    margin-left: -1px;
+    line-height: 0.9;
+}
+#iniciop{
+    color: rgb(7, 7, 110); 
+    font-size: 40px;
+    margin-top: 15px;
+    padding: 20px 5px;
+    background-color: #f5f7fa; 
+    border-left: 10px solid #ff6600;
+    border-radius: 10px;
+}
+#inicio img{
+    height: auto;
+    width: 450px;
+    display: block;
+}
+#text2pag1{
+    text-align: center;
+}
+#text2pag1 h2{
+    font-size: 45px;
+    font-family: Arial;
+    color: rgb(7, 7, 110);
+}
+#text2pag1 p{
+    font-size: 30px;
+    font-family: Arial;
+    color: rgb(7, 7, 110);
+}
+#imagemcombotao{
+    display: inline-block;
+    position: relative;
+    height: 500px;
+    width: 800px;
+    display: block;
+    margin: 0 auto;
+}
+#imagemcombotao img{
+    height: 100%;
+    width: 100%;
+    display: block;
+    object-fit: cover;
+}
+#botao{
+    position: absolute;
+    bottom: 60px; 
+    left: 26%;
+    background-color: #f5f7fa;
+    color:rgb(7, 7, 110);
+    cursor: pointer;
+    font-size: 45px; font-weight: bold;
+    border-radius: 30px;
+    border: 5px double rgb(7, 7, 110);
+}
+#botao:hover{
+    transition: 0.5s;
+    color: black;
+    transform: scale(1.15);
+}
+#final1{
+    border-radius: 10px;
+    border-left: 10px solid  rgb(7, 7, 110);
+    display: flex;
+    align-items: center;
+    gap: 20px
+    
+}
+#final1 img{
+    height: 310px;
+    width: auto;
+    display: block;
+    background-color: #f5f7fa;
+    border-radius: 5px;
+}
+#oi{
+    padding: 1px 1px;
+    background-color: #f5f7fa;
+    border-left: 10px double rgb(7, 7, 110); 
+    line-height: 1.2;
+    font-family: arial;
+    margin-left: -20px;
+    border-radius: 10px;
+}
+#textfinala{
+    font-size: 40px;
+    padding: 1px 1px;
+    background-color: #f5f7fa;
+    line-height: 1.2;
+}
+.paragfinala{
+    color: rgb(7, 7, 110); 
+    font-size: 20px;
+    margin-top: -40px;
+    padding: 15px 5px;
+    background-color: #f5f7fa; 
+}
+#feedback{
+    border-radius: 10px;
+    border-left: 10px solid  rgb(7, 7, 110);
+    display: flex;
+    gap: 20px
+}
+#feedback img{
+    height: 310px;
+    width: 310px;
+    display: block;
+    background-color: #f5f7fa;
+    border-radius: 5px;
+}
+#ola{
+    background-color: #f5f7fa;
+    border-left: 10px double rgb(7, 7, 110); 
+    line-height: 1.2;
+    font-family: arial;
+    margin-left: -20px;
+    border-radius: 10px;
+    display: inline-block;
+    position: relative;
+}
+#feedebacktitul{
+    font-size: 40px;
+    padding: 1px 1px;
+    background-color: #f5f7fa;
+    line-height: 1.2;
+}
+#feedbackparag{
+    color: rgb(7, 7, 110); 
+    font-size: 20px;
+    margin-top: -40px;
+    padding: 15px 5px;
+    background-color: #f5f7fa;
+}
+#botao2{
+    position: absolute;
+    bottom: 60px; 
+    left: 26%;
+    background-color: #f5f7fa;
+    color:rgb(7, 7, 110);
+    cursor: pointer;
+    font-size: 45px; font-weight: bold;
+    border-radius: 30px;
+    border: 5px double rgb(7, 7, 110);
+}
+#botao2:hover{
+    transition: 0.5s;
+    color: black;
+    transform: scale(1.15);
+}
+#Contato{
+    border-radius: 10px;
+    border-left: 10px solid  rgb(7, 7, 110);
+    display: flex;
+    gap: 20px
+}
+#Contato img{
+    height: 310px;
+    width: 310px;
+    display: block;
+    background-color: #f5f7fa;
+    border-radius: 5px;
+}
+#hello{
+    background-color: #f5f7fa;
+    border-left: 10px double rgb(7, 7, 110); 
+    line-height: 1.2;
+    font-family: arial;
+    margin-left: -20px;
+    border-radius: 10px;
+    display: inline-block;
+    position: relative;
+}
+.faleconosctitul{
+    font-size: 40px;
+    padding: 1px 1px;
+    background-color: #f5f7fa;
+    line-height: 1.2;
+}
+#faleconoscparag{
+    color: rgb(7, 7, 110); 
+    font-size: 20px;
+    margin-top: -40px;
+    padding: 15px 5px;
+    background-color: #f5f7fa;
+}
+#botao3{
+    position: absolute;
+    bottom: 30px; 
+    left: 26%;
+    background-color: #f5f7fa;
+    color:rgb(7, 7, 110);
+    cursor: pointer;
+    font-size: 45px; font-weight: bold;
+    border-radius: 30px;
+    border: 5px double rgb(7, 7, 110);
+}
+#botao3:hover{
+    transition: 0.5s;
+    color: black;
+    transform: scale(1.15);
+}
+.footer{
+    background-color:  rgb(7, 7, 110);
+    color: white;
+    text-align: center;
+}
