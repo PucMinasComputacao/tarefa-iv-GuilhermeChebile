@@ -1,1 +1,4 @@
-[![Review Assignment Due Date](https://classroom.github.com/assets/deadline-readme-button-22041afd0340ce965d47ae6ef1cefeee28c7c493a6346c4f15d667ab976d596c.svg)](https://classroom.github.com/a/PZr9oUpF)
+Nome: Guilherme Luiz Santos Chebile
+Matrícula: 908179
+Proposta de projeto escolhida: Proposta 3 - Organizações e Equipes.
+Descrição do projeto: Site para uma agência de marketing.
