@@ -3,7 +3,7 @@ Matrícula: 908179
 Proposta de projeto escolhida: Proposta 3 - Organizações e Equipes.
 Descrição do projeto: Site para uma agência de marketing.
 Wireframe:
-![Print Wireframe 1](../tarefa-iv-GuilhermeChebile/Public/imgs/wireframe%20parte%201.pngtarefa-iv-GuilhermeChebile/)
+![Print Wireframe 1](/Public/imgs/wireframe-parte-1.png)
 
 ![Print Wireframe 2](../tarefa-iv-GuilhermeChebile/Public/imgs/wireframe%20parte%202.png)
 
