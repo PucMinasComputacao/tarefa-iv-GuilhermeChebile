@@ -395,3 +395,24 @@ a{
     color: white;
     text-align: center;
 }
+#hi{
+    background-color: #f5f7fa;
+    border-left: 10px double rgb(7, 7, 110); 
+    line-height: 1.2;
+    font-family: arial;
+    margin-left: -20px;
+    border-radius: 10px;
+    border:  10px double rgb(7, 7, 110); 
+}
+#titulforms{
+    text-align: center;
+    font-family: arial;
+    color:  rgb(7, 7, 110);
+}
+#forms{
+
+    text-align: center;
+}
+.label1{
+    font-family: Arial;
+}
