@@ -181,12 +181,11 @@ a{
     border-left: 10px solid  rgb(7, 7, 110);
     background-color: #f5f7fa;
     font-family: arial;
-    font-size: 20px;
 }
 .textinicio{
     margin-left: 2px;
-    font-size: 25px;
-    padding: 1px 1px;
+    font-size: 20px;
+    padding: 1px 15px;
     background-color: #f5f7fa;
     border-left: 10px double  rgb(7, 7, 110); 
     margin-left: -1px;
@@ -194,12 +193,10 @@ a{
 }
 #iniciop{
     color: rgb(7, 7, 110); 
-    font-size: 40px;
-    margin-top: 15px;
-    padding: 20px 5px;
+    font-size: 20px;
+    margin-top: 5 px;
+    padding: 5px 5px;
     background-color: #f5f7fa; 
-    border-left: 10px solid #ff6600;
-    border-radius: 10px;
 }
 #inicio img{
     height: auto;
