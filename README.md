@@ -5,19 +5,19 @@ Descrição do projeto: Site para uma agência de marketing.
 Wireframe:
 ![Print Wireframe 1](/Public/imgs/wireframe-parte-1.png)
 
-![Print Wireframe 2](../tarefa-iv-GuilhermeChebile/Public/imgs/wireframe%20parte%202.png)
+![Print Wireframe 2](/Public/imgs/wireframe-parte-2.png)
 
-![Print Wireframe 3](../tarefa-iv-GuilhermeChebile/Public/imgs/wireframe%20parte%203.png)
+![Print Wireframe 3](/Public/imgs/wireframe-parte-3.png)
 
 Print Home-page:
-![Print Home-page 1](../tarefa-iv-GuilhermeChebile/Public/imgs/Home-page%20print%201.png)
+![Print Home-page 1](/Public/imgs/Home-page-print-1.png)
 
-![Print Home-page 2](../tarefa-iv-GuilhermeChebile/Public/imgs/Home-page%20print%202.png)
+![Print Home-page 2](/Public/imgs/Home-page-print-2.png)
 
-![Print Home-page 3](../tarefa-iv-GuilhermeChebile/Public/imgs/Home-page%20print%203.png)
+![Print Home-page 3](/Public/imgs/Home-page-print-3.png)
 
-![Print Home-page 4](../tarefa-iv-GuilhermeChebile/Public/imgs/Home-page%20print%204.png)
+![Print Home-page 4](/Public/imgs/Home-page-print-4.png)
 
-![Print Home-page 5](../tarefa-iv-GuilhermeChebile/Public/imgs/Home-page%20print%205.png)
+![Print Home-page 5](/Public/imgs/Home-page-print-5.png)
 
-![Print Home-page 6](../tarefa-iv-GuilhermeChebile/Public/imgs/Home-page%20print%206.png)
+![Print Home-page 6](/Public/imgs/Home-page-print-6.png)
